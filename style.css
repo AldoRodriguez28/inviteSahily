@@ -728,7 +728,7 @@ padding: 40px;
 .section_banner{
   font-family: "Great Vibes", cursive;
   display: grid;
-  background-image: url("/img/niña_mujer.jpg"); /* Set a specific height */
+  background-image: url("/img/nina_mujer.jpg"); /* Set a specific height */
   width: 100vw;
   height: 100vh;
   /* Position and center the image to scale nicely on all screens */
