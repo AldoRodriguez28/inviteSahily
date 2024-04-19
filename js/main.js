@@ -19,7 +19,7 @@ var iglesia = {
 var salon = {
   nombre: "Salon Platinum",
   direccion: "Guadalupe Victoria 2819, Centro, 91700 Veracruz, Ver.",
-  fecha: "11 de Mayo del 2024 a las 19:30",
+  fecha: "11 de Mayo del 2024 a las 20:00",
   url_image: "/img/salon.png",
   url_mapa: "https://maps.app.goo.gl/5QpMxiyU8MRvdRnt9",
 };
