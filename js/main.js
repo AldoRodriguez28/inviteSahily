@@ -35,7 +35,7 @@ let flagPlay = false;
 
 //invitado.innerText = id;
 //datos_bancarios.style.display = 'none';
-cantidad_ticket.innerText = cantidad;
+//cantidad_ticket.innerText = cantidad;
 
 function cargaDatosLugares() {
   var festejado_nombre = document.getElementById("nombre_festejado");
