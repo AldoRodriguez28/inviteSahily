@@ -35,7 +35,7 @@ let flagPlay = false;
 
 //invitado.innerText = id;
 //datos_bancarios.style.display = 'none';
-//cantidad_ticket.innerText = cantidad;
+cantidad_ticket.innerText = cantidad;
 
 function cargaDatosLugares() {
   var festejado_nombre = document.getElementById("nombre_festejado");
@@ -83,7 +83,8 @@ function hashtag_instagram() {
 }
 function whatsapp(whatsapp) {
   var mensaje = "text=confirmo%20asistencia%20muchas%20gracias.";
-  var link_whatsapp = "https://wa.me/52" + whatsapp + "/?" + mensaje;
+  var link_whatsapp =
+    "https://wa.me/52" + whatsapp_confirma_asistencia_mama + "/?" + mensaje;
   window.location = link_whatsapp;
 }
 
